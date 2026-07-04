@@ -1,7 +1,12 @@
 ---
 title: "#25 CISSPで学ぶセキュリティ「データのライフサイクル」"
-emoji: "🔥"
-topics: []
+emoji: "🛡️"
+type: "idea"
+topics:
+  - "マネジメント"
+  - "セキュリティ"
+  - "cissp"
+  - "情報処理安全確保支援士"
 published: false
 ---
 
