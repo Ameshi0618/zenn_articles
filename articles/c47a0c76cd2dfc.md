@@ -1,5 +1,5 @@
 ---
-title: "テンプレート「CISSPで学ぶ」"
+title: "#00 CISSPで学ぶセキュリティ「hogehoge」"
 emoji: "🔥"
 topics: []
 published: false
