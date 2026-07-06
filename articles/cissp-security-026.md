@@ -80,7 +80,7 @@ SSL/TLS証明書、暗号化用の秘密鍵、APIトークンなど。
 
 ## 関連記事
 
-@[card](asdsadsa)
+@[card](https://zenn.dev/ameshi/articles/cissp-security-025)
 @[card](adsadds)
 
 ## 注意事項
